@@ -1,6 +1,6 @@
 {
-  "name": "random-para-gen",
-  "homepage": "https://ayushkv001.github.io/random-para-gen",
+  "name": "para-gen",
+  "homepage": "https://ayushkv001.github.io/para-gen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
